@@ -6,8 +6,8 @@
     {
       "week": 1,
       "title": "감 테스트",
-      "line": "데이터로 문항 만들고 테스트 만들어보기",
-      "judgment": "",
+      "line": "서울 버스노선 알아보기",
+      "judgment": "버스 노선이 실제로 얼마나 긴지 감을 잡는게 목적이었고, 현재 상태를 알고싶어 최신데이터만 사용함",
       "ai": ["Claude Code", "v0", "Perplexity"],
       "url": "https://gam-test-tau.vercel.app/",
       "img": "img/w1.jpg"
